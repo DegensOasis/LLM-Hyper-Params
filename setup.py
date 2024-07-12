@@ -1,3 +1,5 @@
+# setup.py
+
 from setuptools import setup, find_packages
 
 setup(
@@ -14,4 +16,9 @@ setup(
         'torch',
         'joblib'
     ],
+    entry_points={
+        'console_scripts': [
+            'llm-optimizer=cli:main',
+        ],
+    },
 )
