@@ -68,4 +68,4 @@ A WIP open sourced Python wrapper for LLM parameter optimization and queries.
    A: While the optimizer can provide valuable insights and improvements, it's primarily designed as a research and development tool. For production use, thorough testing and potentially some optimizations for efficiency would be recommended.
 
 10. **Q: How can I contribute to this project?**
-    A: Contributions are welcome! You could add support for new LLM providers, implement new optimization strategies, create additional scoring functions, or improve the documentation.
+    A: Contributions are welcome! You could add support for new LLM providers, implement new optimization strategies, create additional scoring functions, or improve the documentation. Please see [Contributing.md](https://github.com/DegensOasis/LLM-Hyper-Params/blob/main/CONTRIBUTING.md)
