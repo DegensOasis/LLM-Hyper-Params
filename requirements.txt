@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+nltk
+python-dotenv
+openai
+transformers
+torch
+joblib
